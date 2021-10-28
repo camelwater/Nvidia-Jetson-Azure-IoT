@@ -1,12 +1,3 @@
-# Steps
-- start with this readme
-- then go to deepstream folder
-  1. deepstream/Intro
-  2. deepstream/Lesson 1
-  3. deepstream/Lesson 2
-  4. deepstream/Lesson 3
-  5. deepstream/Lesson 4
-  6. deepstream/Lesson 5
 # Nvidia Jetson Nano & IoT
 ## Hardware
 - [Nvidia Jetson nano developer kit](https://www.amazon.com/gp/product/B07PZHBDKT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) 
